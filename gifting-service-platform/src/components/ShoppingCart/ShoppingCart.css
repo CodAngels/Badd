@@ -1,0 +1,29 @@
+.shopping-cart {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+  }
+  
+  .shopping-cart h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .shopping-cart ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .shopping-cart li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .shopping-cart button {
+    margin-left: 0.5rem;
+  }
+  

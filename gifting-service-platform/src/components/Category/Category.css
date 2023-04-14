@@ -1,0 +1,20 @@
+.category {
+    /* Add global styles for the Category component here */
+  }
+  
+  .category-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .category-item {
+    flex: 1;
+    min-width: 150px;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
